@@ -1,0 +1,19 @@
+{
+  "name": "typingdna-nodejs-sample",
+  "version": "1.0.0",
+  "description": "TypingDNA Node.js Sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aerabi/typingdna-nodejs-sample.git"
+  },
+  "author": "Mohammad-Ali A'RÂBI",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aerabi/typingdna-nodejs-sample/issues"
+  },
+  "homepage": "https://github.com/aerabi/typingdna-nodejs-sample#readme"
+}
